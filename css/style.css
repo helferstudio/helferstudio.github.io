@@ -537,7 +537,7 @@ body{
 }
 
 .testimonials .owl-dot.active {
-    background-color: #4F84C4;
+    background-color: #dc500f;
 }
 
 @media (max-width: 575px) {
@@ -590,7 +590,7 @@ body{
 }
 
 .clients .owl-dot.active {
-    background-color: #4F84C4;
+    background-color: #dc500f;
 }    
 
 .team{
